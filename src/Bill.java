@@ -13,7 +13,7 @@ class Bill
     // Add a tip based on the number of guests
     //if the total number of customers is over 8, 25% extra
     //if the total number of customers is over 4 but less than 8, 20% extra
-    //less than 4, nothing happens
+    //less than 4, 5% extra
     public void addTip()
     {
 
