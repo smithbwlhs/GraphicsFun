@@ -11,7 +11,7 @@ class Bill
     }
 
     // Add a tip based on the number of guests
-    //if the total number of customers is over 8, 25% extra
+    //if the total number of customers is 8 or more, 25% extra
     //if the total number of customers is 4 or more but less than 8, 20% extra
     //less than 4 but 2 or more, 5% extra
     //less than 2, nothing extra
