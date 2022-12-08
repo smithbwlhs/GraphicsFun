@@ -7,15 +7,11 @@ public class MoreLoopFun {
          */
 
         //a for loop that counts by ones from 1 to 5
-        for(int i = 0; i <= 5; i++){
-            System.out.println(i);
-        }
+
 
         //a for loop that prints the powers of two up to 100
         //can you have an infinite for loop?
-        for(int i = 2; i < 100; i *=2 ){
-            System.out.println(i);
-        }
+
 
         //write a for loop that counts by 4s from 5 up to 50
 
