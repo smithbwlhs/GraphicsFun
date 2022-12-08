@@ -7,7 +7,9 @@ public class MoreLoopFun {
          */
 
         //a for loop that counts by ones from 1 to 5
-
+        for(int start = 1; start < 5; start++ ){
+            System.out.println(start);
+        }
 
         //a for loop that prints the powers of two up to 100
         //can you have an infinite for loop?
